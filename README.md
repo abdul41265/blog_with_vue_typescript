@@ -1,5 +1,9 @@
 # blog
 
+## Blog features
+```
+Dynamic content, Json Server, HashTag, Sorting, Creating a blog post
+```
 ## Project setup
 ```
 npm install
@@ -9,7 +13,10 @@ npm install
 ```
 npm run serve
 ```
-
+### Run Json Server for dynamic data
+```
+npx json-server --watch db.json
+```
 ### Compiles and minifies for production
 ```
 npm run build
