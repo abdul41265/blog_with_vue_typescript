@@ -29,6 +29,6 @@ npm run lint
 
 ### Screenshots
 
-![alt text](https://github.com/abdul41265/blog_with_vue_typescript/main/home.PNG?raw=true)
+![Screenshot](home.PNG)
 
-![alt text](https://github.com/abdul41265/blog_with_vue_typescript/main/create.PNG?raw=true)
+![alt text](./create.PNG?raw=true)
