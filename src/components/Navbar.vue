@@ -27,7 +27,7 @@ export default defineComponent({
     padding: 10px;
   }
   header h1 {
-    color: #dfdfdf;
+    color: ##0000ee;
     font-size: 48px;
   }
   header a {
